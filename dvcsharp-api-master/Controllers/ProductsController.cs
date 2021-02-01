@@ -50,7 +50,7 @@ namespace dvcsharp_core_api
 
          return Ok(product);
       }
-        //Just a test
+        //Just a test 2
       [HttpGet("export")]
       public void Export()
       {

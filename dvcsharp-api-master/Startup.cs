@@ -16,6 +16,7 @@ using System.Text;
 using dvcsharp_core_api.Data;
 
 namespace dvcsharp_core_api
+    
 {
     public class Startup
     {
